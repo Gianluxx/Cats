@@ -53,12 +53,12 @@ class Main extends PluginBase implements Listener{
 				case “Black”:
 				$this->setSkin($sender, “Black”, ".png", “black”);
 				break;
-				case "diplo":
-				case "Diplo":
+				case "red":
+				case "Red":
 				$this->setSkin($sender, “Red”, ".png", “red”);
 				break;
-				case "robo":
-				case "Robo":
+				case "siamese":
+				case "Siamese":
 				$this->setSkin($sender, “Siamese”, ".png", “siamese”);
 				break;
 				case "reset":
