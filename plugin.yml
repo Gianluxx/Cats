@@ -1,0 +1,9 @@
+name: Cats
+version: 1.0.1
+api: 3.0.0
+main: Cats\Main
+author: Liaam
+
+commands:
+  cat:
+    description: "Become cats”
